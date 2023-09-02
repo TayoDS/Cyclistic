@@ -1,4 +1,4 @@
-# Cyclistic
+# Cyclistic Bike-Share: Google Data Analytics Capstone Project
 This project served as the capstone of the Google Data Analytics Course on Coursera. Presented below is an overview of the project, along with the accompanying notebook attached for reference.
 
 
