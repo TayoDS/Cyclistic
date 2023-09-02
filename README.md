@@ -26,5 +26,5 @@ Key questions?
 
 **Files included**
 
-Data for analysis was made available by Motivate International Inc. and is available [here] (https://divvy-tripdata.s3.amazonaws.com/index.html). 
+Data for analysis was made available by Motivate International Inc. and is available [here](https://divvy-tripdata.s3.amazonaws.com/index.html)
 
