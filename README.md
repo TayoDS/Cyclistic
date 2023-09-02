@@ -24,4 +24,7 @@ Key questions?
 2. Why would casual riders buy Cyclistic annual memberships?
 3. How can Cyclistic use digital media to influence casual riders to become members?
 
+**Files included**
+
+Data for analysis was made available by Motivate International Inc. and is available [here] (https://divvy-tripdata.s3.amazonaws.com/index.html). 
 
